@@ -3,15 +3,16 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: "Lobster", cursive;
+    font-family: 'Playfair Display SC', serif;
 }
 
-h2 {
-    color: #3406C5;
+h1 {
+    color: black;
+    font-size: 100px;
 }
 
 header h2 {
-    color: #CEC8FF;
+    color: gray;
 }
 
 footer {
@@ -37,3 +38,9 @@ nav {
     link: white;
 }
 
+.jumbotron {
+    width: viewport;
+    background-image: url("/img/purple-address.jpg");
+    background-color: white;
+    background-position: center;
+}

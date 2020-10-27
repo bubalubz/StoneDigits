@@ -1,8 +1,8 @@
 {
-  "name": "nucamp-site",
+  "name": "stone-digits",
   "version": "1.0.0",
-  "description": "This is a website for the fictional campsite review site Nucamp",
-  "main": "index.js",
+  "description": "This is a website for Stone Digits, a custom stone business",
+  "main": "index.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
@@ -16,6 +16,7 @@
   "dependencies": {
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
+    "lite": "^4.0.5",
     "popper.js": "^1.16.1"
   }
 }
